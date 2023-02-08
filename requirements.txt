@@ -1,0 +1,5 @@
+fastapi
+unittest2
+uvicorn
+pandas
+requests
