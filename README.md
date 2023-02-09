@@ -11,7 +11,7 @@ Install by either pulling from Docker or cloning.
 Pull the file from Dockerhub by running.
 
 ```bash
-docker pull 
+docker pull matiasvian/snn_api:latest
 ```
 
 ### Git
@@ -19,7 +19,7 @@ docker pull
 Clone repository:
 
 ```bash
-git clone  
+git clone https://github.com/matiasvian/snn_api.git 
 ```
 
 CD to **app folder**, and run API with command:
